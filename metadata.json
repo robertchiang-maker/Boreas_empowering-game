@@ -1,0 +1,6 @@
+{
+  "name": "Boreas 隱藏版超能力解鎖",
+  "description": "Boreas 北風學院隱藏版超能力解鎖遊戲，探索學院生活累積的軟實力，抽取超能力籤並撰寫經驗解鎖技能認證卡。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
